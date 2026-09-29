@@ -507,7 +507,7 @@ input[type="range"] {
   transition: background 0.4s ease, box-shadow 0.4s ease;
 }
 
-.building.lit .win {
+.building .win.lit {
   background: var(--amber);
   box-shadow: 0 0 5px 0 var(--amber-glow);
 }
